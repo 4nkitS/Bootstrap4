@@ -37,3 +37,11 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
+
+.table-reservation{
+    background-color: orange;
+}
+
+.card-body{
+    padding: 20px 0px 0px 50px;
+}
