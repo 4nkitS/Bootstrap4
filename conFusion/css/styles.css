@@ -31,7 +31,7 @@
 
 body{
     padding: 50px 0px 0px 0px;
-    z-index: 0;    
+    z-index: 0;
 }
 
 .navbar-dark{
@@ -42,6 +42,21 @@ body{
     background-color: orange;
 }
 
+.table-reservation:hover{
+    background: orange;
+}
+
+.table-reservation:click{
+    background: orange;
+}
+
 .card-body{
     padding: 20px 0px 0px 50px;
+}
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
