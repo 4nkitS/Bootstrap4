@@ -19,3 +19,7 @@ npm install font-awesome@4.7.0 --save
 npm install bootstrap-social@5.1.1 --save
 
 
+5. Installing less
+sudo npm install -g less@2.7.2
+Creating css from less
+lessc css/styles.less css/styles.css 
